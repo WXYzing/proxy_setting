@@ -44,7 +44,7 @@ android {
         minSdkVersion 16
     }
 
-    namespace 'jp.playon.proxy_setting_android'
+    namespace = 'jp.playon.proxy_setting_android'
 }
 
 dependencies {
